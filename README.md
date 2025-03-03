@@ -5,7 +5,7 @@
 
 ## example code
 
-```
+```react
 import { Chatbot } from 'react-gemini-chatbot-new'
 
 function App() {
